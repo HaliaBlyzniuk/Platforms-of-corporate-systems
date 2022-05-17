@@ -1,0 +1,26 @@
+C:\Users\oshchur2\OneDrive - SoftServe, Inc\Desktop\.Net\Lab2\Lab2\bin\Debug\netcoreapp3.1\Lab2.exe
+C:\Users\oshchur2\OneDrive - SoftServe, Inc\Desktop\.Net\Lab2\Lab2\bin\Debug\netcoreapp3.1\Lab2.deps.json
+C:\Users\oshchur2\OneDrive - SoftServe, Inc\Desktop\.Net\Lab2\Lab2\bin\Debug\netcoreapp3.1\Lab2.runtimeconfig.json
+C:\Users\oshchur2\OneDrive - SoftServe, Inc\Desktop\.Net\Lab2\Lab2\bin\Debug\netcoreapp3.1\Lab2.runtimeconfig.dev.json
+C:\Users\oshchur2\OneDrive - SoftServe, Inc\Desktop\.Net\Lab2\Lab2\bin\Debug\netcoreapp3.1\Lab2.dll
+C:\Users\oshchur2\OneDrive - SoftServe, Inc\Desktop\.Net\Lab2\Lab2\bin\Debug\netcoreapp3.1\Lab2.pdb
+C:\Users\oshchur2\OneDrive - SoftServe, Inc\Desktop\.Net\Lab2\Lab2\obj\Debug\netcoreapp3.1\Lab2.csprojAssemblyReference.cache
+C:\Users\oshchur2\OneDrive - SoftServe, Inc\Desktop\.Net\Lab2\Lab2\obj\Debug\netcoreapp3.1\Lab2.AssemblyInfoInputs.cache
+C:\Users\oshchur2\OneDrive - SoftServe, Inc\Desktop\.Net\Lab2\Lab2\obj\Debug\netcoreapp3.1\Lab2.AssemblyInfo.cs
+C:\Users\oshchur2\OneDrive - SoftServe, Inc\Desktop\.Net\Lab2\Lab2\obj\Debug\netcoreapp3.1\Lab2.csproj.CoreCompileInputs.cache
+C:\Users\oshchur2\OneDrive - SoftServe, Inc\Desktop\.Net\Lab2\Lab2\obj\Debug\netcoreapp3.1\Lab2.dll
+C:\Users\oshchur2\OneDrive - SoftServe, Inc\Desktop\.Net\Lab2\Lab2\obj\Debug\netcoreapp3.1\Lab2.pdb
+C:\Users\oshchur2\OneDrive - SoftServe, Inc\Desktop\.Net\Lab2\Lab2\obj\Debug\netcoreapp3.1\Lab2.genruntimeconfig.cache
+G:\Lab2\Lab2\bin\Debug\netcoreapp3.1\Lab2.exe
+G:\Lab2\Lab2\bin\Debug\netcoreapp3.1\Lab2.deps.json
+G:\Lab2\Lab2\bin\Debug\netcoreapp3.1\Lab2.runtimeconfig.json
+G:\Lab2\Lab2\bin\Debug\netcoreapp3.1\Lab2.runtimeconfig.dev.json
+G:\Lab2\Lab2\bin\Debug\netcoreapp3.1\Lab2.dll
+G:\Lab2\Lab2\bin\Debug\netcoreapp3.1\Lab2.pdb
+G:\Lab2\Lab2\obj\Debug\netcoreapp3.1\Lab2.csprojAssemblyReference.cache
+G:\Lab2\Lab2\obj\Debug\netcoreapp3.1\Lab2.AssemblyInfoInputs.cache
+G:\Lab2\Lab2\obj\Debug\netcoreapp3.1\Lab2.AssemblyInfo.cs
+G:\Lab2\Lab2\obj\Debug\netcoreapp3.1\Lab2.csproj.CoreCompileInputs.cache
+G:\Lab2\Lab2\obj\Debug\netcoreapp3.1\Lab2.dll
+G:\Lab2\Lab2\obj\Debug\netcoreapp3.1\Lab2.pdb
+G:\Lab2\Lab2\obj\Debug\netcoreapp3.1\Lab2.genruntimeconfig.cache
