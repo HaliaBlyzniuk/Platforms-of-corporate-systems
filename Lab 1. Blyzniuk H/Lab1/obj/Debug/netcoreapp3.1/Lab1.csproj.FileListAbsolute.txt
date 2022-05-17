@@ -1,0 +1,13 @@
+E:\University\3 курс\2 семестр\.NET\Lab1\Lab1\bin\Debug\netcoreapp3.1\Lab1.exe
+E:\University\3 курс\2 семестр\.NET\Lab1\Lab1\bin\Debug\netcoreapp3.1\Lab1.deps.json
+E:\University\3 курс\2 семестр\.NET\Lab1\Lab1\bin\Debug\netcoreapp3.1\Lab1.runtimeconfig.json
+E:\University\3 курс\2 семестр\.NET\Lab1\Lab1\bin\Debug\netcoreapp3.1\Lab1.runtimeconfig.dev.json
+E:\University\3 курс\2 семестр\.NET\Lab1\Lab1\bin\Debug\netcoreapp3.1\Lab1.dll
+E:\University\3 курс\2 семестр\.NET\Lab1\Lab1\bin\Debug\netcoreapp3.1\Lab1.pdb
+E:\University\3 курс\2 семестр\.NET\Lab1\Lab1\obj\Debug\netcoreapp3.1\Lab1.csprojAssemblyReference.cache
+E:\University\3 курс\2 семестр\.NET\Lab1\Lab1\obj\Debug\netcoreapp3.1\Lab1.AssemblyInfoInputs.cache
+E:\University\3 курс\2 семестр\.NET\Lab1\Lab1\obj\Debug\netcoreapp3.1\Lab1.AssemblyInfo.cs
+E:\University\3 курс\2 семестр\.NET\Lab1\Lab1\obj\Debug\netcoreapp3.1\Lab1.csproj.CoreCompileInputs.cache
+E:\University\3 курс\2 семестр\.NET\Lab1\Lab1\obj\Debug\netcoreapp3.1\Lab1.dll
+E:\University\3 курс\2 семестр\.NET\Lab1\Lab1\obj\Debug\netcoreapp3.1\Lab1.pdb
+E:\University\3 курс\2 семестр\.NET\Lab1\Lab1\obj\Debug\netcoreapp3.1\Lab1.genruntimeconfig.cache
