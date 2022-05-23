@@ -1,0 +1,35 @@
+c:\users\olegs\source\repos\Lab1\Lab1\bin\Debug\netcoreapp2.1\Lab1.deps.json
+c:\users\olegs\source\repos\Lab1\Lab1\bin\Debug\netcoreapp2.1\Lab1.runtimeconfig.json
+c:\users\olegs\source\repos\Lab1\Lab1\bin\Debug\netcoreapp2.1\Lab1.runtimeconfig.dev.json
+c:\users\olegs\source\repos\Lab1\Lab1\bin\Debug\netcoreapp2.1\Lab1.dll
+c:\users\olegs\source\repos\Lab1\Lab1\bin\Debug\netcoreapp2.1\Lab1.pdb
+c:\users\olegs\source\repos\Lab1\Lab1\obj\Debug\netcoreapp2.1\Lab1.csprojAssemblyReference.cache
+c:\users\olegs\source\repos\Lab1\Lab1\obj\Debug\netcoreapp2.1\Lab1.csproj.CoreCompileInputs.cache
+c:\users\olegs\source\repos\Lab1\Lab1\obj\Debug\netcoreapp2.1\Lab1.AssemblyInfoInputs.cache
+c:\users\olegs\source\repos\Lab1\Lab1\obj\Debug\netcoreapp2.1\Lab1.AssemblyInfo.cs
+c:\users\olegs\source\repos\Lab1\Lab1\obj\Debug\netcoreapp2.1\Lab1.dll
+c:\users\olegs\source\repos\Lab1\Lab1\obj\Debug\netcoreapp2.1\Lab1.pdb
+G:\3курс\дотнет\3\3\Lab1\bin\Debug\netcoreapp2.1\Lab1.deps.json
+G:\3курс\дотнет\3\3\Lab1\bin\Debug\netcoreapp2.1\Lab1.runtimeconfig.json
+G:\3курс\дотнет\3\3\Lab1\bin\Debug\netcoreapp2.1\Lab1.runtimeconfig.dev.json
+G:\3курс\дотнет\3\3\Lab1\bin\Debug\netcoreapp2.1\Lab1.dll
+G:\3курс\дотнет\3\3\Lab1\bin\Debug\netcoreapp2.1\Lab1.pdb
+G:\3курс\дотнет\3\3\Lab1\obj\Debug\netcoreapp2.1\Lab1.csprojAssemblyReference.cache
+G:\3курс\дотнет\3\3\Lab1\obj\Debug\netcoreapp2.1\Lab1.AssemblyInfoInputs.cache
+G:\3курс\дотнет\3\3\Lab1\obj\Debug\netcoreapp2.1\Lab1.AssemblyInfo.cs
+G:\3курс\дотнет\3\3\Lab1\obj\Debug\netcoreapp2.1\Lab1.csproj.CoreCompileInputs.cache
+G:\3курс\дотнет\3\3\Lab1\obj\Debug\netcoreapp2.1\Lab1.dll
+G:\3курс\дотнет\3\3\Lab1\obj\Debug\netcoreapp2.1\Lab1.pdb
+G:\3курс\дотнет\3\3\Lab1\obj\Debug\netcoreapp2.1\Lab1.genruntimeconfig.cache
+E:\University\3 курс\2 семестр\.NET\Lab3\Lab1\bin\Debug\netcoreapp2.1\Lab1.deps.json
+E:\University\3 курс\2 семестр\.NET\Lab3\Lab1\bin\Debug\netcoreapp2.1\Lab1.runtimeconfig.json
+E:\University\3 курс\2 семестр\.NET\Lab3\Lab1\bin\Debug\netcoreapp2.1\Lab1.runtimeconfig.dev.json
+E:\University\3 курс\2 семестр\.NET\Lab3\Lab1\bin\Debug\netcoreapp2.1\Lab1.dll
+E:\University\3 курс\2 семестр\.NET\Lab3\Lab1\bin\Debug\netcoreapp2.1\Lab1.pdb
+E:\University\3 курс\2 семестр\.NET\Lab3\Lab1\obj\Debug\netcoreapp2.1\Lab1.csprojAssemblyReference.cache
+E:\University\3 курс\2 семестр\.NET\Lab3\Lab1\obj\Debug\netcoreapp2.1\Lab1.AssemblyInfoInputs.cache
+E:\University\3 курс\2 семестр\.NET\Lab3\Lab1\obj\Debug\netcoreapp2.1\Lab1.AssemblyInfo.cs
+E:\University\3 курс\2 семестр\.NET\Lab3\Lab1\obj\Debug\netcoreapp2.1\Lab1.csproj.CoreCompileInputs.cache
+E:\University\3 курс\2 семестр\.NET\Lab3\Lab1\obj\Debug\netcoreapp2.1\Lab1.dll
+E:\University\3 курс\2 семестр\.NET\Lab3\Lab1\obj\Debug\netcoreapp2.1\Lab1.pdb
+E:\University\3 курс\2 семестр\.NET\Lab3\Lab1\obj\Debug\netcoreapp2.1\Lab1.genruntimeconfig.cache
